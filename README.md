@@ -1,5 +1,5 @@
-<h1 align="center">MasterJudah here 👋</h1>
-<h3 align="center">Namaste 🙏 I'm Joshua Thad</h3>
+<h1 align="center">Cesar Hernandez👋</h1>
+<h3 align="center">I'm CESAR H</h3>
 
 ---
 
@@ -9,8 +9,7 @@
 - 🌱 I’m currently learning: React.js, Next.js, DevOps  
 - 💬 Ask me about MERN Stack, Frontend, Backend  
 - ⚡ Fun fact: I love cyberpunk and synthwave aesthetic  
-- 📫 Reach me at: [judah@example.com](mailto:judah@example.com)  
-- 🏠 Based in: Republic of India 🇮🇳  
+
 
 ---
 
@@ -40,14 +39,7 @@
   <img src="https://img.shields.io/badge/Browser-Firefox-blue?style=flat&logo=firefox-browser" />
 </p>
 
----
 
-### 📌 Top Contributed Repos
-
-```text
-🔹 repo1-name  
-🔹 repo2-name  
-🔹 repo3-name  
 
 
 
