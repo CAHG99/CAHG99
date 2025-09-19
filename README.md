@@ -1,5 +1,5 @@
 <h1 align="center">Cesar Hernandez👋</h1>
-<h3 align="center">I'm CESAR H</h3>
+<h3 align="center">I'm CAHG99</h3>
 
 ---
 
@@ -21,12 +21,14 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=masterjudah&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=masterjudah&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CAHG99&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CAHG99&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CAHG99&layout=compact&theme=tokyonight" />
 </p>
+
 
 ---
 
