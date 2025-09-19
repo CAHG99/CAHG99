@@ -1,32 +1,29 @@
 # Hola, soy Cesar Hernandez 👋
 
-¡Bienvenido a mi perfil de GitHub!
+![Foto de perfil](https://github.com/CAHG99.png)
 
-Soy un desarrollador apasionado por la programación, especializado en Python, HTML y CSS. Me encanta crear proyectos que resuelvan problemas prácticos y seguir aprendiendo nuevas tecnologías.
+Desarrollador enfocado en:
 
-## 🔭 Proyectos destacados
-
-- **Sistema-de-registro**: Proyecto en HTML para gestión y registro.
-- **Workouts**: Aplicación en Python relacionada con rutinas de ejercicio.
-- **Alura**: Proyecto en CSS enfocado en diseño web.
-- **RiwiPython y Project1**: Proyectos en Python para diversos propósitos.
-- **RiwiHtml**: Proyecto en HTML.
-
-## 🛠 Tecnologías y herramientas
-
-- Python
-- HTML
-- CSS
-
-## 📫 Contacto
-
-Puedes escribirme a: cehergra1999@gmail.com
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" />
+</p>
 
 ---
 
-Gracias por visitar mi perfil, ¡espero que te guste lo que he creado!
+## Proyectos destacados
+
+- **Sistema-de-registro** (HTML)
+- **Workouts** (Python)
+- **Alura** (CSS)
+- **RiwiPython y Project1** (Python)
+- **RiwiHtml** (HTML)
 
 ---
 
-✨ ¡Feliz codificación! ✨
+📫 Contacto: [cehergra1999@gmail.com](mailto:cehergra1999@gmail.com)
+
+✨ ¡Gracias por visitar mi perfil!
+
 
