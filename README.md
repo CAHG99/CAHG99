@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hola, soy Cesar Hernandez 👋
 
-<!--
-**CAHG99/CAHG99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenido a mi perfil de GitHub!
 
-Here are some ideas to get you started:
+Soy un desarrollador apasionado por la programación, especializado en Python, HTML y CSS. Me encanta crear proyectos que resuelvan problemas prácticos y seguir aprendiendo nuevas tecnologías.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Proyectos destacados
+
+- **Sistema-de-registro**: Proyecto en HTML para gestión y registro.
+- **Workouts**: Aplicación en Python relacionada con rutinas de ejercicio.
+- **Alura**: Proyecto en CSS enfocado en diseño web.
+- **RiwiPython y Project1**: Proyectos en Python para diversos propósitos.
+- **RiwiHtml**: Proyecto en HTML.
+
+## 🛠 Tecnologías y herramientas
+
+- Python
+- HTML
+- CSS
+
+## 📫 Contacto
+
+Puedes escribirme a: cehergra1999@gmail.com
+
+---
+
+Gracias por visitar mi perfil, ¡espero que te guste lo que he creado!
+
+---
+
+✨ ¡Feliz codificación! ✨
+
