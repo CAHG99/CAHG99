@@ -16,7 +16,7 @@
 ### 💻 Languages & Tools I Have Played My Hands On:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,nextjs,html,css,tailwind,python,docker,git,github,linux,bash,vercel,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,nextjs,html,css,python,docker,git,github,linux,bash,figma,vscode" />
 </p>
 
 ---
