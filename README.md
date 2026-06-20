@@ -1,46 +1,66 @@
-<h1 align="center">Cesar Hernandez👋</h1>
-<h3 align="center">I'm CAHG99</h3>
+# 👋 Hi, I'm César Hernández
+
+### Junior Backend Developer
+
+I build REST APIs using Node.js, NestJS and PostgreSQL.
+
+Currently focused on backend development, authentication systems, database design and API documentation.
 
 ---
 
-### 👨‍💻 About Me
-
-- 🔭 I’m currently working on Software Development 🚀  
-- 🌱 I’m currently learning: React.js, Next.js, DevOps  
-- 💬 Ask me about MERN Stack, Frontend, Backend  
-- ⚡ Fun fact: I love cyberpunk and synthwave aesthetic  
-
-
----
-
-### 💻 Languages & Tools I Have Played My Hands On:
+## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,mongodb,nextjs,html,css,python,docker,git,github,linux,bash,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,sequelize,postgres,nestjs,html,css,docker,git,github,linux,bash,figma,vscode" />
 </p>
+
+### Backend
+
+- Node.js
+- Express
+- NestJS
+- TypeScript
+
+### Database
+
+- PostgreSQL
+- Sequelize
+- TypeORM
+
+### Tools
+
+- JWT
+- Swagger
+- Docker
+- Git
+- GitHub
 
 ---
 
-## 📊 GitHub Stats
+## 📌 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CAHG99&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CAHG99&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CAHG99&layout=compact&theme=tokyonight" />
-</p>
+### 🛠️ [TechHelpDesk](https://github.com/CAHG99/TechHelpDesk_Technical_Support_System)
 
+Technical support ticket management API built with NestJS.
+
+### 📦 [Delivery Order Management API](https://github.com/CAHG99/Delivery_Order_Management_API)
+
+Delivery order management system with authentication and inventory control.
+
+### 🤝 [Tramigo](https://github.com/integrator-proyect-riwi)
+
+Worked as part of the backend team, contributing to API development, business logic implementation and database integration.
+
+### 🤝 [Clinify](https://github.com/ClinifyCo)
+
+Worked as part of the backend team, contributing to API development, business logic implementation and database integration.
 
 ---
 
-### 🧰 Tech Stack
+## 📚 Currently Learning
 
-<p align="center">
-  <img src="https://img.shields.io/badge/OS-Linux-blue?style=flat&logo=linux" />
-  <img src="https://img.shields.io/badge/Editor-VSCode-blue?style=flat&logo=visual-studio-code" />
-  <img src="https://img.shields.io/badge/Terminal-Bash-blue?style=flat&logo=gnubash" />
-  <img src="https://img.shields.io/badge/Browser-Firefox-blue?style=flat&logo=firefox-browser" />
-</p>
-
+- React
+- DevOps fundamentals
 
 
 
